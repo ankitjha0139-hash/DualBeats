@@ -1,4 +1,4 @@
-# 🔊 DualBeats
+# DualBeats
 
 **Play audio through multiple Bluetooth speakers simultaneously on macOS — regardless of brand.**
 
@@ -18,12 +18,12 @@ DualBeats solves this.
 
 ## What It Does
 
-- 🔍 **Scans** for nearby Bluetooth speakers of any brand
-- ✅ **Select** up to 5 speakers with a simple checkbox interface
-- 🔗 **One-tap Connect & Play** — connects all selected speakers and routes audio to all of them at once
-- 🎚️ **Master volume slider** — control the volume of all connected speakers together
-- 🔇 **Mute** toggle
-- 🎵 Works with **any audio source** — Spotify, Apple Music, YouTube, system sounds, anything
+- **Scans** for nearby Bluetooth speakers of any brand
+- **Select** up to 5 speakers with a simple checkbox interface
+- **One-tap Connect & Play** — connects all selected speakers and routes audio to all of them at once
+- **Master volume slider** — control the volume of all connected speakers together
+- **Mute** toggle
+- Works with **any audio source** — Spotify, Apple Music, YouTube, system sounds, anything
 
 ---
 
@@ -112,10 +112,10 @@ See [SETUP.md](SETUP.md) for detailed step-by-step instructions.
 
 ## Roadmap
 
-- [ ] Auto-connect to a saved speaker preset on launch
-- [ ] Latency compensation / per-speaker delay offset
-- [ ] iPhone support (Mac as an audio relay hub)
-- [ ] Speaker presets / favourites
+Auto-connect to a saved speaker preset on launch
+Latency compensation / per-speaker delay offset
+iPhone support (Mac as an audio relay hub)
+Speaker presets / favourites
 
 ---
 
